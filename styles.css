@@ -1,0 +1,43 @@
+
+/* index HTML*/
+body{
+
+    background-color:gainsboro;
+}
+hr{
+
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gainsboro;
+    border-width: 5px;
+    
+    width: 3%;
+}
+h1{
+    color:crimson ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    
+}
+h3{
+    color:crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    background-color:#E7E0C9;
+    
+}
+table{
+    background-color: rgb(255, 234, 255) ;
+}
+
+#heading{
+    color:deepskyblue;
+}
+.profile{
+    background-color: deepskyblue;
+}
+.circular{
+    border-radius: 20%;
+}
